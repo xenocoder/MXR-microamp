@@ -1,0 +1,28 @@
+Partlist exported from /Users/ehowell/Dropbox/Eagle/MXR MicroAmp/V1.0/MXR MicroAmp.sch at 10/28/14 8:04 PM
+
+Part Value  Device           Package       Description        
++9V  +9V(T) +9V(T)           SQUARE        +9V Voltage Supply 
+C1   0.1uF  072X0252         072X025       1000pF - 0.47uF    
+C2   47pF   050X030_0251     050X030_025   47 - 120pF         
+C3   4.7uF  044A1            044A          .1 - 1.5µF         
+C4   1uF    044A1            044A          .1 - 1.5µF         
+C5   15uF   0631             063_025       33 - 220uF         
+D1   LED3MM LED3MM           LED3MM                           
+D2   1N4001 1N400X.1         DO41-1        Rectifier Diodes   
+G    GND(T) GND(T)           SQUARE        Ground             
+GND  GND(T) GND(T)           SQUARE        Ground             
+IC1  TL061P TL071P           DIL08         OP AMP             
+IN   IN(T)  IN(T)            SQUARE        Input              
+LED  LED    PAD              SQUARE        PAD                
+OUT  OUT(T) OUT(T)           SQUARE        Output             
+POT1        9MMPOT_9MM_HOLES POT_9MM_HOLES                    
+R1   22M    3MM.2            R0204/2       3mm Resistors      
+R2   10M    3MM.2            R0204/2       3mm Resistors      
+R3   1k     3MM.2            R0204/2       3mm Resistors      
+R4   56k    3MM.2            R0204/2       3mm Resistors      
+R6   2k7    3MM.2            R0204/2       3mm Resistors      
+R7   100k   3MM.2            R0204/2       3mm Resistors      
+R8   100k   3MM.2            R0204/2       3mm Resistors      
+R9   470    3MM.2            R0204/2       3mm Resistors      
+R10  10k    3MM.2            R0204/2       3mm Resistors      
+R11  4k7    3MM.2            R0204/2       3mm Resistors      
